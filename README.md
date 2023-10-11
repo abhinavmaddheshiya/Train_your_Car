@@ -1,13 +1,14 @@
 # Train_your_Car
-Car driving mechanics
-Road definition
-Artificial sensors
-Collision detection
-Traffic simulation
-Neural network
-Visualizing neural networks
-Optimizing neural networks
-Fine-tuning
+Concepts Used:
+1. Car driving mechanics
+2. Road definition
+3. Artificial sensors
+4. Collision detection
+5. Traffic simulation
+6. Neural network
+7. Visualizing neural networks
+8. Optimizing neural networks
+9. Fine-tuning
 
 Few ScreenShots: 
 <img width="1440" alt="21" src="https://github.com/abhinavmaddheshiya/Train_your_Car/assets/93302416/41d1d38f-31c7-43ca-b121-ebba0a96826b">
